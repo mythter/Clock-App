@@ -1,1 +1,1 @@
-# Lab_6 Clock App
+# Clock App
